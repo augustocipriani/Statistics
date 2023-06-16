@@ -1,0 +1,337 @@
+Table 1.2 - Count Of Births Of New Enterprises For 2016 To 2021 Standard Industrial Classification (SIC2007) Group,,,,,,
+This worksheet contains one table,,,,,,
+Units: Counts (control rounded to base 5),,,,,,
+Sector,2016,2017,2018,2019,2020,2021
+05 : Mining of coal and lignite,0,0,0,0,0,0
+    051 : Mining of hard coal,0,0,0,0,0,0
+    052 : Mining of lignite,0,0,0,0,0,0
+06 : Extraction of crude petroleum and natural gas,20,25,30,25,20,15
+    061 : Extraction of crude petroleum,10,15,15,10,5,5
+    062 : Extraction of natural gas,10,10,15,15,15,10
+07 : Mining of metal ores,0,0,0,0,0,5
+    071 : Mining of iron ores,0,0,0,0,0,0
+    072 : Mining of non-ferrous metal ores,0,0,0,0,0,5
+08 : Other mining and quarrying,45,70,65,55,55,70
+"    081 : Quarrying of stone, sand and clay",10,15,15,5,10,15
+    089 : Mining and quarrying n.e.c.,35,55,50,50,45,55
+09 : Mining support service activities,50,60,50,65,40,35
+    091 : Support activities for petroleum and natural gas extraction,30,20,25,25,10,5
+    099 : Support activities for other mining and quarrying,20,40,25,40,30,30
+10 : Manufacture of food products,980,"1,025","1,005","1,050","1,190","1,530"
+    101 : Processing and preserving of meat and production of meat products,100,85,75,80,70,85
+"    102 : Processing and preserving of fish, crustaceans and molluscs",20,20,20,15,15,25
+    103 : Processing and preserving of fruit and vegetables,80,85,75,75,65,85
+    104 : Manufacture of vegetable and animal oils and fats,5,10,10,20,15,20
+    105 : Manufacture of dairy products,85,85,70,80,70,110
+"    106 : Manufacture of grain mill products, starches and starch products",15,20,20,25,20,30
+    107 : Manufacture of bakery and farinaceous products,345,345,345,290,395,585
+    108 : Manufacture of other food products,285,325,350,410,495,510
+    109 : Manufacture of prepared animal feeds,45,50,40,55,45,80
+11 : Manufacture of beverages,385,415,395,415,385,375
+    110 : Manufacture of beverages,385,415,395,415,385,375
+12 : Manufacture of tobacco products,5,5,5,0,0,5
+    120 : Manufacture of tobacco products,5,5,5,0,0,5
+13 : Manufacture of textiles,405,485,560,485,465,510
+    131 : Preparation and spinning of textile fibres,15,15,15,15,10,10
+    132 : Weaving of textiles,30,10,10,20,20,25
+    133 : Finishing of textiles,155,160,130,145,135,165
+    139 : Manufacture of other textiles,205,300,405,305,300,310
+14 : Manufacture of wearing apparel,625,600,615,570,695,680
+"    141 : Manufacture of wearing apparel, except fur apparel",595,585,600,555,665,655
+    142 : Manufacture of articles of fur,0,0,0,0,0,0
+    143 : Manufacture of knitted and crocheted apparel,30,15,15,15,30,25
+15 : Manufacture of leather and related products,95,75,90,70,85,90
+"    151 : Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",70,50,60,55,70,65
+    152 : Manufacture of footwear,25,25,30,15,15,25
+"16 : Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","1,165","1,160","1,085",925,945,"1,450"
+    161 : Sawmilling and planing of wood,45,35,35,30,25,30
+"    162 : Manufacture of products of wood, cork, straw and plaiting materials","1,120","1,125","1,050",895,920,"1,420"
+17 : Manufacture of paper and paper products,115,110,105,125,145,135
+"    171 : Manufacture of pulp, paper and paperboard",30,30,25,30,25,25
+    172 : Manufacture of articles of paper and paperboard,85,80,80,95,120,110
+18 : Printing and reproduction of recorded media,775,755,845,850,840,765
+    181 : Printing and service activities related to printing,705,695,785,765,775,650
+    182 : Reproduction of recorded media,70,60,60,85,65,115
+19 : Manufacture of coke and refined petroleum products,15,10,20,5,5,15
+    191 : Manufacture of coke oven products,0,0,0,0,0,0
+    192 : Manufacture of refined petroleum products,15,10,20,5,5,15
+20 : Manufacture of chemicals and chemical products,350,350,275,350,420,480
+"    201 : Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",70,65,60,80,80,85
+    202 : Manufacture of pesticides and other agrochemical products,10,10,5,10,15,10
+"    203 : Manufacture of paints, varnishes and similar coatings, printing ink and mastics",25,40,25,30,35,35
+"    204 : Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",185,190,145,160,230,285
+    205 : Manufacture of other chemical products,60,45,40,70,60,65
+    206 : Manufacture of man-made fibres,0,0,0,0,0,0
+21 : Manufacture of basic pharmaceutical products and pharmaceutical preparations,100,85,85,90,100,85
+    211 : Manufacture of basic pharmaceutical products,30,25,35,35,55,30
+    212 : Manufacture of pharmaceutical preparations,70,60,50,55,45,55
+22 : Manufacture of rubber and plastic products,345,380,300,280,325,295
+    221 : Manufacture of rubber products,50,45,45,25,25,35
+    222 : Manufacture of plastics products,295,335,255,255,300,260
+23 : Manufacture of other non-metallic mineral products,255,290,265,310,310,385
+    231 : Manufacture of glass and glass products,45,50,40,50,40,40
+    232 : Manufacture of refractory products,10,5,5,5,10,5
+    233 : Manufacture of clay building materials,15,20,20,15,30,45
+    234 : Manufacture of other porcelain and ceramic products,25,30,20,35,35,50
+"    235 : Manufacture of cement, lime and plaster",5,5,5,0,0,20
+"    236 : Manufacture of articles of concrete, cement and plaster",75,80,85,105,95,100
+"    237 : Cutting, shaping and finishing of stone",70,85,75,70,80,110
+    239 : Manufacture of abrasive products and non-metallic mineral products n.e.c.,10,15,15,30,20,15
+24 : Manufacture of basic metals,300,230,220,205,185,175
+    241 : Manufacture of basic iron and steel and of ferro-alloys,145,115,130,115,95,100
+"    242 : Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",65,35,40,35,35,25
+    243 : Manufacture of other products of first processing of steel,5,0,5,5,5,0
+    244 : Manufacture of basic precious and other non-ferrous metals,55,45,30,30,30,35
+    245 : Casting of metals,30,35,15,20,20,15
+"25 : Manufacture of fabricated metal products, except machinery and equipment","2,885","2,690","2,745","1,410","1,250","1,475"
+    251 : Manufacture of structural metal products,490,450,350,405,370,415
+"    252 : Manufacture of tanks, reservoirs and containers of metal",25,15,15,15,25,20
+"    253 : Manufacture of steam generators, except central heating hot water boilers",15,5,5,0,5,5
+    254 : Manufacture of weapons and ammunition,5,5,5,10,5,5
+"    255 : Forging, pressing, stamping and roll-forming of metal; powder metallurgy",10,20,10,30,20,10
+    256 : Treatment and coating of metals; machining,"1,975","1,865","2,050",625,475,640
+"    257 : Manufacture of cutlery, tools and general hardware",120,110,110,90,85,135
+    259 : Manufacture of other fabricated metal products,245,220,200,235,265,245
+"26 : Manufacture of computer, electronic and optical products",535,520,490,490,485,480
+    261 : Manufacture of electronic components and boards,75,60,55,65,65,60
+    262 : Manufacture of computers and peripheral equipment,105,85,85,80,80,80
+    263 : Manufacture of communication equipment,75,135,105,110,90,80
+    264 : Manufacture of consumer electronics,55,50,50,60,55,60
+"    265 : Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks",155,135,145,100,105,125
+"    266 : Manufacture of irradiation, electromedical and electrotherapeutic equipment",25,15,15,15,25,20
+    267 : Manufacture of optical instruments and photographic equipment,30,30,30,55,60,45
+    268 : Manufacture of magnetic and optical media,15,10,5,5,5,10
+27 : Manufacture of electrical equipment,275,265,225,255,295,285
+"    271 : Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",45,55,30,50,40,45
+    272 : Manufacture of batteries and accumulators,5,5,5,15,15,15
+    273 : Manufacture of wiring and wiring devices,25,30,30,35,30,45
+    274 : Manufacture of electric lighting equipment,95,90,70,55,80,75
+    275 : Manufacture of domestic appliances,35,35,35,40,50,45
+    279 : Manufacture of other electrical equipment,70,50,55,60,80,60
+28 : Manufacture of machinery and equipment n.e.c.,610,510,550,585,535,495
+    281 : Manufacture of general-purpose machinery,105,60,95,80,70,75
+    282 : Manufacture of other general-purpose machinery,270,185,205,185,195,190
+    283 : Manufacture of agricultural and forestry machinery,35,50,50,120,110,55
+    284 : Manufacture of metal forming machinery and machine tools,65,65,55,65,50,35
+    289 : Manufacture of other special-purpose machinery,135,150,145,135,110,140
+"29 : Manufacture of motor vehicles, trailers and semi-trailers",565,465,510,445,395,570
+    291 : Manufacture of motor vehicles,265,165,170,110,95,225
+    292 : Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,110,130,115,110,125,185
+    293 : Manufacture of parts and accessories for motor vehicles,190,170,225,225,175,160
+30 : Manufacture of other transport equipment,400,315,330,275,230,280
+    301 : Building of ships and boats,140,105,95,105,80,115
+    302 : Manufacture of railway locomotives and rolling stock,25,35,45,50,55,40
+    303 : Manufacture of air and spacecraft and related machinery,170,115,125,65,45,65
+    304 : Manufacture of military fighting vehicles,5,5,5,5,0,0
+    309 : Manufacture of transport equipment n.e.c.,60,55,60,50,50,60
+31 : Manufacture of furniture,635,590,665,600,650,820
+    310 : Manufacture of furniture,635,590,665,600,650,820
+32 : Other manufacturing,710,"1,010","1,150","1,460","1,285","1,105"
+"    321 : Manufacture of jewellery, bijouterie and related articles",125,160,135,160,145,195
+    322 : Manufacture of musical instruments,20,35,35,15,30,40
+    323 : Manufacture of sports goods,100,135,105,105,135,150
+    324 : Manufacture of games and toys,100,120,80,85,115,150
+    325 : Manufacture of medical and dental instruments and supplies,155,150,105,100,180,145
+    329 : Other manufacturing n.e.c.,210,410,690,995,680,425
+33 : Repair and installation of machinery and equipment,"2,460","2,035","1,995","2,380","2,095","1,750"
+"    331 : Repair of fabricated metal products, machinery and equipment","2,055","1,700","1,700","2,100","1,845","1,490"
+    332 : Installation of industrial machinery and equipment,405,335,295,280,250,260
+"35 : Electricity, gas, steam and air conditioning supply","1,135",755,580,630,535,605
+"    351 : Electric power generation, transmission and distribution","1,105",725,540,595,495,570
+    352 : Manufacture of gas; distribution of gaseous fuels through mains,25,25,35,35,35,25
+    353 : Steam and air conditioning supply,5,5,5,0,5,10
+"36 : Water collection, treatment and supply",20,15,15,5,5,0
+"    360 : Water collection, treatment and supply",20,15,15,5,5,0
+37 : Sewerage,95,100,90,80,120,140
+    370 : Sewerage,95,100,90,80,120,140
+"38 : Waste collection, treatment and disposal activities; materials recovery",645,660,630,630,660,830
+    381 : Waste collection,310,350,360,365,415,535
+    382 : Waste treatment and disposal,160,165,145,115,110,140
+    383 : Materials recovery,175,145,125,150,135,155
+39 : Remediation activities and other waste management services.,185,195,175,190,190,175
+    390 : Remediation activities and other waste management services,185,195,175,190,190,175
+41 : Construction of buildings,"16,985","16,735","17,085","16,175","15,525","19,655"
+    411 : Development of building projects,"6,520","6,795","6,920","6,790","6,335","7,315"
+    412 : Construction of residential and non-residential buildings,"10,465","9,940","10,165","9,385","9,190","12,340"
+42 : Civil engineering,"4,315","3,630","3,380","4,150","3,345","3,050"
+    421 : Construction of roads and railways,"2,225","1,760","1,680","2,180","1,595","1,360"
+    422 : Construction of utility projects,300,300,260,350,370,415
+    429 : Construction of other civil engineering projects,"1,790","1,570","1,440","1,620","1,380","1,275"
+43 : Specialised construction activities,"28,935","31,185","27,870","28,245","23,615","30,270"
+    431 : Demolition and site preparation,"1,145","1,350",940,980,635,560
+"    432 : Electrical, plumbing and other construction installation activities","11,580","11,420","11,185","10,610","9,355","12,470"
+    433 : Building completion and finishing,"11,735","13,315","10,820","11,560","8,845","12,090"
+    439 : Other specialised construction activities,"4,475","5,100","4,925","5,095","4,780","5,150"
+45 : Wholesale and retail trade and repair of motor vehicles and motorcycles,"8,455","8,140","8,575","7,420","7,600","8,860"
+    451 : Sale of motor vehicles,"2,260","2,335","2,260","2,395","2,630","2,895"
+    452 : Maintenance and repair of motor vehicles,"5,185","4,805","5,360","4,165","3,810","4,745"
+    453 : Sale of motor vehicle parts and accessories,810,805,760,680,935,990
+"    454 : Sale, maintenance and repair of motorcycles and related parts and accessories",200,195,195,180,225,230
+"46 : Wholesale trade, except of motor vehicles and motorcycles","9,425","9,285","9,605","9,390","13,525","13,480"
+    461 : Wholesale on a fee or contract basis,"1,265","1,465","1,535","1,725","2,305","2,090"
+    462 : Wholesale of agricultural raw materials and live animals,190,185,165,200,195,280
+"    463 : Wholesale of food, beverages and tobacco","1,950","1,860","1,905","1,880","2,650","2,395"
+    464 : Wholesale of household goods,"2,510","2,510","2,395","2,355","3,100","3,060"
+    465 : Wholesale of information and communication equipment,395,435,445,385,445,445
+"    466 : Wholesale of other machinery, equipment and supplies",780,705,615,640,655,885
+    467 : Other specialised wholesale,"1,360","1,150","1,550","1,105","1,225","1,270"
+    469 : Non-specialised wholesale trade,975,975,995,"1,100","2,950","3,055"
+"47 : Retail trade, except of motor vehicles and motorcycles","26,750","29,685","32,290","31,935","34,630","38,870"
+    471 : Retail sale in non-specialised stores,"4,535","4,885","4,770","4,905","5,030","5,485"
+"    472 : Retail sale of food, beverages and tobacco in specialised stores","2,525","2,500","2,275","2,460","2,665","3,105"
+    473 : Retail sale of automotive fuel in specialised stores,230,230,180,170,145,120
+    474 : Retail sale of information and communication equipment in specialised stores,725,625,725,710,775,810
+    475 : Retail sale of other household equipment in specialised stores,"2,655","2,660","2,275","1,885","2,115","3,240"
+    476 : Retail sale of cultural and recreation goods in specialised stores,"1,095","1,090","1,015",900,"1,290","1,635"
+    477 : Retail sale of other goods in specialised stores,"5,730","5,490","5,385","4,595","5,130","6,565"
+    478 : Retail sale via stalls and markets,380,395,415,465,695,715
+"    479 : Retail trade not in stores, stalls or markets","8,875","11,810","15,250","15,845","16,785","17,195"
+49 : Land transport and transport via pipelines,"14,980","9,785","12,275","18,225","14,840","20,660"
+"    491 : Passenger rail transport, interurban",5,5,5,0,0,0
+    492 : Freight rail transport,5,35,30,35,30,30
+    493 : Other passenger land transport,"1,725","1,680","1,670","1,680","1,405","1,300"
+    494 : Freight transport by road and removal services,"13,240","8,065","10,570","16,510","13,405","19,330"
+    495 : Transport via pipeline,5,0,0,0,0,0
+50 : Water transport,105,135,130,115,125,115
+    501 : Sea and coastal passenger water transport,45,60,60,50,55,50
+    502 : Sea and coastal freight water transport,45,60,50,50,60,45
+    503 : Inland passenger water transport,10,10,15,15,10,15
+    504 : Inland freight water transport,5,5,5,0,0,5
+51 : Air transport,85,180,270,60,60,255
+    511 : Passenger air transport,55,50,50,50,40,50
+    512 : Freight air transport and space transport,30,130,220,10,20,205
+52 : Warehousing and support activities for transportation,"6,695","7,940","4,345","2,960","2,430","2,900"
+    521 : Warehousing and storage,"4,725","4,905","1,915",645,415,525
+    522 : Support activities for transportation,"1,970","3,035","2,430","2,315","2,015","2,375"
+53 : Postal and courier activities,"5,310","6,100","6,905","11,055","19,910","22,215"
+    531 : Postal activities under universal service obligation,235,200,210,170,200,280
+    532 : Other postal and courier activities,"5,075","5,900","6,695","10,885","19,710","21,935"
+55 : Accommodation,"1,565","1,815","1,855","1,860","1,695","2,340"
+    551 : Hotels and similar accommodation,785,865,845,835,680,750
+    552 : Holiday and other short-stay accommodation,520,635,695,630,660,"1,105"
+"    553 : Camping grounds, recreational vehicle parks and trailer parks",140,165,150,175,145,320
+    559 : Other accommodation,120,150,165,220,210,165
+56 : Food and beverage service activities,"23,870","25,105","25,850","26,930","23,490","28,625"
+    561 : Restaurants and mobile food service activities,"17,155","18,200","18,530","18,105","15,785","18,845"
+    562 : Event catering and other food service activities,"2,135","2,125","2,590","4,030","4,090","6,440"
+    563 : Beverage serving activities,"4,580","4,780","4,730","4,795","3,615","3,340"
+58 : Publishing activities,"1,505","1,455","1,415","1,480","1,540","1,555"
+"    581 : Publishing of books, periodicals and other publishing activities","1,065","1,035",990,955,920,950
+    582 : Software publishing,440,420,425,525,620,605
+"59 : Motion picture, video and television programme production, sound recording and music publishing activities","3,890","3,660","3,665","3,825","3,680","4,205"
+"    591 : Motion picture, video and television programme activities","3,480","3,235","3,210","3,290","3,020","3,595"
+    592 : Sound recording and music publishing activities,410,425,455,535,660,610
+60 : Programming and broadcasting activities,180,190,215,180,240,265
+    601 : Radio broadcasting,75,50,60,65,90,110
+    602 : Television programming and broadcasting activities,105,140,155,115,150,155
+61 : Telecommunications,"1,130","1,110","1,090","1,090",945,930
+    611 : Wired telecommunications activities,355,295,280,300,235,230
+    612 : Wireless telecommunications activities,295,265,235,250,220,190
+    613 : Satellite telecommunications activities,15,15,15,20,20,30
+    619 : Other telecommunications activities,465,535,560,520,470,480
+"62 : Computer programming, consultancy and related activities","24,885","22,125","22,885","21,730","14,505","13,950"
+"    620 : Computer programming, consultancy and related activities","24,885","22,125","22,885","21,730","14,505","13,950"
+63 : Information service activities,"1,035","1,460","1,630","1,775","1,545","1,445"
+"    631 : Data processing, hosting and related activities; web portals",640,715,720,725,780,790
+    639 : Other information service activities,395,745,910,"1,050",765,655
+"64 (Excl 642) : Financial service activities, except insurance and pension funding","1,245","1,370","1,525","1,865","1,735","1,260"
+    641 : Monetary intermediation,45,30,40,5,5,15
+"    643 : Trusts, funds and similar financial entities",115,140,140,155,150,145
+"    649 : Other financial service activities, except insurance and pension funding","1,085","1,200","1,345","1,705","1,580","1,100"
+"65 : Insurance, reinsurance and pension funding, except compulsory social security",280,255,245,250,230,190
+    651 : Insurance,85,130,125,155,130,95
+    652 : Reinsurance,0,0,0,0,0,0
+    653 : Pension funding,195,125,120,95,100,95
+66 : Activities auxiliary to financial services and insurance activities,"3,110","2,865","2,720","1,805","1,330","1,875"
+"    661 : Activities auxiliary to financial services, except insurance and pension funding","2,295","1,985","1,880",995,685,"1,240"
+    662 : Activities auxiliary to insurance and pension funding,635,660,630,595,485,410
+    663 : Fund management activities,180,220,210,215,160,225
+68 : Real estate activities,"10,205","10,735","10,335","10,465","10,245","12,355"
+    681 : Buying and selling of own real estate,630,915,"1,210","1,725","1,960","1,820"
+    682 : Renting and operating of own or leased real estate,"4,840","5,340","4,850","5,430","4,845","5,120"
+    683 : Real estate activities on a fee or contract basis,"4,735","4,480","4,275","3,310","3,440","5,415"
+69 : Legal and accounting activities,"8,345","7,925","7,305","6,610","5,430","5,565"
+    691 : Legal activities,"2,900","2,840","2,580","2,375","1,960","2,055"
+"    692 : Accounting, bookkeeping and auditing activities; tax consultancy","5,445","5,085","4,725","4,235","3,470","3,510"
+70 : Activities of head offices; management consultancy activities,"33,645","27,450","26,945","25,760","20,775","20,460"
+    701 : Activities of head offices,"1,110","1,120","1,210","1,115","1,105","1,395"
+    702 : Management consultancy activities,"32,535","26,330","25,735","24,645","19,670","19,065"
+71 : Architectural and engineering activities; technical testing and analysis,"14,350","11,435","11,225","10,440","7,780","7,435"
+    711 : Architectural and engineering activities and related technical consultancy,"13,505","10,910","10,635","9,930","7,390","7,085"
+    712 : Technical testing and analysis,845,525,590,510,390,350
+72 : Scientific research and development,940,750,725,710,760,785
+    721 : Research and experimental development on natural sciences and engineering,875,690,660,620,675,695
+    722 : Research and experimental development on social sciences and humanities,65,60,65,90,85,90
+73 : Advertising and market research,"3,230","2,880","2,865","2,860","2,790","3,065"
+    731 : Advertising,"2,830","2,560","2,570","2,625","2,600","2,825"
+    732 : Market research and public opinion polling,400,320,295,235,190,240
+"74 : Other professional, scientific and technical activities","22,150","12,200","11,115","15,255","13,340","10,075"
+    741 : Specialised design activities,"2,810","3,075","2,870","2,735","2,415","2,675"
+    742 : Photographic activities,745,765,685,770,745,720
+    743 : Translation and interpretation activities,235,210,215,175,160,215
+"    749 : Other professional, scientific and technical activities n.e.c.","18,360","8,150","7,345","11,575","10,020","6,465"
+75 : Veterinary activities,440,525,515,670,400,340
+    750 : Veterinary activities,440,525,515,670,400,340
+77 : Rental and leasing activities,"2,080","1,870","1,810","1,755","1,855","2,000"
+    771 : Renting and leasing of motor vehicles,655,600,640,540,595,625
+    772 : Renting and leasing of personal and household goods,320,280,230,290,280,325
+"    773 : Renting and leasing of other machinery, equipment and tangible goods",920,865,800,775,840,915
+"    774 : Leasing of intellectual property and similar products, except copyrighted works",185,125,140,150,140,135
+78 : Employment activities,"5,210","7,665","6,860","5,295","4,170","4,855"
+    781 : Activities of employment placement agencies,"3,495","5,305","4,895","3,325","2,325","3,190"
+    782 : Temporary employment agency activities,"1,470","1,710","1,515","1,345","1,125","1,225"
+    783 : Other human resources provision,245,650,450,625,720,440
+"79 : Travel agency, tour operator and other reservation service and related activities","1,165","1,090","1,150","1,090",935,945
+    791 : Travel agency and tour operator activities,860,830,870,815,720,735
+    799 : Other reservation service and related activities,305,260,280,275,215,210
+80 : Security and investigation activities,"1,640","1,485","1,540","1,580","1,570","1,665"
+    801 : Private security activities,"1,175",995,"1,055",925,"1,015","1,155"
+    802 : Security systems service activities,320,385,380,480,470,455
+    803 : Investigation activities,145,105,105,175,85,55
+81 : Services to buildings and landscape activities,"5,170","6,300","5,315","4,595","4,760","7,620"
+    811 : Combined facilities support activities,685,710,535,520,500,575
+    812 : Cleaning activities,"2,740","3,685","3,015","2,525","2,785","4,135"
+    813 : Landscape service activities,"1,745","1,905","1,765","1,550","1,475","2,910"
+"82 : Office administrative, office support and other business support activities","45,380","29,145","27,240","39,480","29,500","18,655"
+    821 : Office administrative and support activities,"1,090","2,840","1,760","2,810","1,760","2,835"
+    822 : Activities of call centres,300,210,130,85,70,80
+    823 : Organisation of conventions and trade shows,500,405,415,455,355,320
+    829 : Business support service activities n.e.c.,"43,490","25,690","24,935","36,130","27,315","15,420"
+85 : Education,"9,285","5,440","4,560","4,430","4,225","5,385"
+    851 : Pre-primary education,280,355,280,360,245,235
+    852 : Primary education,65,105,130,110,120,125
+    853 : Secondary education,245,735,330,305,310,335
+    854 : Higher education,100,75,80,95,90,95
+    855 : Other education,"7,415","3,255","2,915","2,655","2,530","3,500"
+    856 : Educational support activities,"1,180",915,825,905,930,"1,095"
+86 : Human health activities,"10,240","7,450","5,720","6,100","5,770","6,545"
+    861 : Hospital activities,930,690,455,695,635,445
+    862 : Medical and dental practice activities,"4,165","3,290","2,460","2,605","2,430","2,835"
+    869 : Other human health activities,"5,145","3,470","2,805","2,800","2,705","3,265"
+87 : Residential care activities,"1,060",645,670,825,955,960
+    871 : Residential nursing care activities,480,220,180,190,185,170
+"    872 : Residential care activities for learning disabilities, mental health and substance abuse",130,80,80,180,285,145
+    873 : Residential care activities for the elderly and disabled,280,135,120,200,205,170
+    879 : Other residential care activities,170,210,290,255,280,475
+88 : Social work activities without accommodation,"4,720","3,350","2,735","2,135","1,895","2,760"
+    881 : Social work activities without accommodation for the elderly and disabled,715,805,680,385,365,665
+    889 : Other social work activities without accommodation,"4,005","2,545","2,055","1,750","1,530","2,095"
+"90 : Creative, arts and entertainment activities","2,695","3,325","2,905","3,025","2,590","3,120"
+"    900 : Creative, arts and entertainment activities","2,695","3,325","2,905","3,025","2,590","3,120"
+"91 : Libraries, archives, museums and other cultural activities",115,105,95,75,70,95
+"    910 : Libraries, archives, museums and other cultural activities",115,105,95,75,70,95
+92 : Gambling and betting activities,75,80,60,50,35,40
+    920 : Gambling and betting activities,75,80,60,50,35,40
+93 : Sports activities and amusement and recreation activities,"3,550","4,375","4,430","4,290","3,695","4,715"
+    931 : Sports activities,"2,695","3,440","3,495","3,425","2,995","3,890"
+    932 : Amusement and recreation activities,855,935,935,865,700,825
+94 : Activities of membership organisations,"1,490","1,325","1,350","1,065","1,105","1,215"
+"    941 : Activities of business, employers and professional membership organisations",340,315,325,365,290,320
+    942 : Activities of trade unions,15,20,25,5,10,20
+    949 : Activities of other membership organisations,"1,135",990,"1,000",695,805,875
+95 : Repair of computers and personal and household goods,"1,235","1,235","1,340",680,690,"1,315"
+    951 : Repair of computers and communication equipment,825,860,960,280,275,785
+    952 : Repair of personal and household goods,410,375,380,400,415,530
+96 : Other personal service activities,"7,205","7,645","7,830","6,755","6,195","8,945"
+    960 : Other personal service activities,"7,205","7,645","7,830","6,755","6,195","8,945"
+Total,"397,540","356,895","348,630","363,825","333,015","363,995"
